@@ -1,5 +1,5 @@
 name: Say-hello
-on: workflow_dispatch:
+on: workflow_dispatch
 jobs:
   say-hello:
     runs-on: ubuntu-latest
